@@ -6,11 +6,14 @@ iOS memory game made with swift. Video of the game:  https://drive.google.com/fi
 ![Main Screen](https://github.com/DaniKoza/Memory-Game/blob/c941094e4d4c6241e23564851a25e3e748c9c90c/Screenshots/main%20screen-min.png)
 
 ### Gameplay
-![Easy Level](https://raw.githubusercontent.com/paz-lavi/MemoryGame/main/Media/sc4.png)
+![Game](https://github.com/DaniKoza/Memory-Game/blob/3a819a003373b4b6e7326c79eb789dfb2445975f/Screenshots/gameplay-min.png)
+
+![Winner](https://github.com/DaniKoza/Memory-Game/blob/3a819a003373b4b6e7326c79eb789dfb2445975f/Screenshots/winner-min.png)
+
+
 
 ### Top Ten Screen
-![Top Ten](https://raw.githubusercontent.com/paz-lavi/MemoryGame/main/Media/sc5.png)
-![Top Ten landscape](https://raw.githubusercontent.com/paz-lavi/MemoryGame/main/Media/sc6.png)
+![Top Ten]https://github.com/DaniKoza/Memory-Game/blob/3a819a003373b4b6e7326c79eb789dfb2445975f/Screenshots/top%2010-min.png)
 
 
 ## License
