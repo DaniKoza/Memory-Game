@@ -3,7 +3,7 @@ iOS memory game made with swift. Video of the game:  https://drive.google.com/fi
 
 ## Screenshots:
 ### Main Screen 
-![Main Screen](https://github.com/DaniKoza/Memory-Game/blob/c941094e4d4c6241e23564851a25e3e748c9c90c/Screenshots/main%20screen-min.png | width=100)
+<img src="Screenshots/main screen-min.png" width="324" height="324">
 
 ### Gameplay
 ![Game](https://github.com/DaniKoza/Memory-Game/blob/3a819a003373b4b6e7326c79eb789dfb2445975f/Screenshots/gameplay-min.png)
