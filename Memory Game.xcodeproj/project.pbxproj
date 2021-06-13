@@ -29,6 +29,10 @@
 		C6D57DA2263A8F82003D7410 /* CardsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D57DA1263A8F82003D7410 /* CardsManager.swift */; };
 		C6D57DA4263AA7B1003D7410 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D57DA3263AA7B1003D7410 /* Constants.swift */; };
 		C6D9555E264D871F00771B97 /* Artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D9555D264D871F00771B97 /* Artwork.swift */; };
+		DA93BD1E2676229C001E40F8 /* top 10.png in Resources */ = {isa = PBXBuildFile; fileRef = DA93BD1C2676229C001E40F8 /* top 10.png */; };
+		DA93BD1F2676229C001E40F8 /* gameplay.png in Resources */ = {isa = PBXBuildFile; fileRef = DA93BD1D2676229C001E40F8 /* gameplay.png */; };
+		DA93BD2226762325001E40F8 /* main screen.png in Resources */ = {isa = PBXBuildFile; fileRef = DA93BD2026762325001E40F8 /* main screen.png */; };
+		DA93BD2326762325001E40F8 /* winner.png in Resources */ = {isa = PBXBuildFile; fileRef = DA93BD2126762325001E40F8 /* winner.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +60,10 @@
 		C6D57DA1263A8F82003D7410 /* CardsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsManager.swift; sourceTree = "<group>"; };
 		C6D57DA3263AA7B1003D7410 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		C6D9555D264D871F00771B97 /* Artwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
+		DA93BD1C2676229C001E40F8 /* top 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "top 10.png"; path = "../../../../Desktop/top 10.png"; sourceTree = "<group>"; };
+		DA93BD1D2676229C001E40F8 /* gameplay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gameplay.png; path = ../../../../Desktop/gameplay.png; sourceTree = "<group>"; };
+		DA93BD2026762325001E40F8 /* main screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "main screen.png"; path = "../../../../Desktop/main screen.png"; sourceTree = "<group>"; };
+		DA93BD2126762325001E40F8 /* winner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = winner.png; path = ../../../../Desktop/winner.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +156,7 @@
 		C6D57D772639A7B8003D7410 = {
 			isa = PBXGroup;
 			children = (
+				DA93BD1B26762253001E40F8 /* ScreenShots */,
 				C6D57D822639A7B8003D7410 /* Memory Game */,
 				C6D57D812639A7B8003D7410 /* Products */,
 				C64DED1C263C0724006B6F01 /* Frameworks */,
@@ -178,6 +187,17 @@
 				C6D57D912639A7BB003D7410 /* Info.plist */,
 			);
 			path = "Memory Game";
+			sourceTree = "<group>";
+		};
+		DA93BD1B26762253001E40F8 /* ScreenShots */ = {
+			isa = PBXGroup;
+			children = (
+				DA93BD2026762325001E40F8 /* main screen.png */,
+				DA93BD2126762325001E40F8 /* winner.png */,
+				DA93BD1D2676229C001E40F8 /* gameplay.png */,
+				DA93BD1C2676229C001E40F8 /* top 10.png */,
+			);
+			path = ScreenShots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,6 +258,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				C6D57D902639A7BB003D7410 /* LaunchScreen.storyboard in Resources */,
+				DA93BD2326762325001E40F8 /* winner.png in Resources */,
+				DA93BD1F2676229C001E40F8 /* gameplay.png in Resources */,
+				DA93BD1E2676229C001E40F8 /* top 10.png in Resources */,
+				DA93BD2226762325001E40F8 /* main screen.png in Resources */,
 				C6D57D8D2639A7BB003D7410 /* Assets.xcassets in Resources */,
 				C6D57D8B2639A7B8003D7410 /* Main.storyboard in Resources */,
 			);
