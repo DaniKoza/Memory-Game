@@ -1,18 +1,18 @@
 # Memory-Game
-iOS memory game made with swift. 
+iOS memory game made with swift. <br>
 Video of the game:  https://drive.google.com/file/d/1y1Ulz1SDnOlXKXY_tG22iK8XgP578CxM/view?usp=drive_web
 
 ## Screenshots:
 ### Main Screen 
-<img src="Screenshots/main screen-min.png" width="324" height="524">
+<img src="Screenshots/main screen-min.png" width="324" height="624">
 
 ### Gameplay
-<img src="Screenshots/gameplay-min.png" width="324" height="524">
-<img src="Screenshots/winner-min.png" width="324" height="524">
+<img src="Screenshots/gameplay-min.png" width="324" height="624">
+<img src="Screenshots/winner-min.png" width="324" height="624">
 
 
 ### Top Ten Screen
-<img src="Screenshots/top 10-min.png" width="324" height="524">
+<img src="Screenshots/top 10-min.png" width="324" height="624">
 
 ## License
 
