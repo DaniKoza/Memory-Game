@@ -13,7 +13,7 @@ iOS memory game made with swift. Video of the game:  https://drive.google.com/fi
 
 
 ### Top Ten Screen
-![Top Ten]https://github.com/DaniKoza/Memory-Game/blob/3a819a003373b4b6e7326c79eb789dfb2445975f/Screenshots/top%2010-min.png)
+![Top Ten](https://github.com/DaniKoza/Memory-Game/blob/3a819a003373b4b6e7326c79eb789dfb2445975f/Screenshots/top%2010-min.png)
 
 
 ## License
