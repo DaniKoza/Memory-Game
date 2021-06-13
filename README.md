@@ -1,9 +1,10 @@
 # Memory-Game
-iOS memory game made with swift. Video of the game:  https://drive.google.com/file/d/1y1Ulz1SDnOlXKXY_tG22iK8XgP578CxM/view?usp=drive_web
+iOS memory game made with swift. <br>
+Video of the game:  https://drive.google.com/file/d/1y1Ulz1SDnOlXKXY_tG22iK8XgP578CxM/view?usp=drive_web
 
 ## Screenshots:
 ### Main Screen 
-<img src="Screenshots/main screen-min.png" width="324" height="324">
+<img src="Screenshots/main screen-min.png" width="324" height="524">
 
 ### Gameplay
 ![Game](https://github.com/DaniKoza/Memory-Game/blob/3a819a003373b4b6e7326c79eb789dfb2445975f/Screenshots/gameplay-min.png)
